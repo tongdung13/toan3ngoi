@@ -1,13 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <title>love</title>
 </head>
 <body>
-<h1>Do you love me?</h1>
-<script>
-
+<h1 style="position: absolute; left: 220px; top:130px;">Do you love me?</h1>
+<input type="button" value="yes" onclick="yesclick()" style="position: absolute; left: 300px; top: 200px;">
+<input type="button" id="btnNo" value="no" onmouseover="noHover()" style="position: absolute; left: 360px; top: 200px;">
+<script type="text/javascript">
+    function yesclick(){
+        alert("yes");
+    }
+    function noHover(){
+        let x = Math.round(Math.random() * window.innerWidth);
+        let y = Math.round(Math.random() * window.innerHeight);
+        document.getElementById('btnNo').style.left = x +'px';
+        document.getElementById('btnNo').style.top  = y + 'px';
+        }
 </script>
 </body>
 </html>
