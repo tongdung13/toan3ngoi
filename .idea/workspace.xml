@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ff8bba-49cf-456e-a6e7-5f7e97c4ca13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bmi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hinhanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/love.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maytinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mtdg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602142834949</updated>
       <workItem from="1602142835980" duration="9088000" />
-      <workItem from="1602157408417" duration="3219000" />
+      <workItem from="1602157408417" duration="3905000" />
+      <workItem from="1602163399910" duration="7920000" />
+      <workItem from="1602206262841" duration="12023000" />
+      <workItem from="1602219142936" duration="2114000" />
+      <workItem from="1602224749077" duration="6192000" />
+      <workItem from="1602233768994" duration="41000" />
+      <workItem from="1602233952096" duration="16000" />
+      <workItem from="1602233981952" duration="45000" />
     </task>
     <servers />
   </component>
@@ -86,8 +97,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="66" key="RollbackChangesDialog" timestamp="1602218671082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="555" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602218671082" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1602220860257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602220860257" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602147109770">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
